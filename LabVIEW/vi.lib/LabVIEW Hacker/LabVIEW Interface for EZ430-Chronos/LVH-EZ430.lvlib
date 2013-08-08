@@ -7,10 +7,12 @@
 </Property>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="EZ430-Chronos - Read Accelerometer.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/LabVIEW Interface for EZ430-Chronos/EZ430-Chronos - Read Accelerometer.vi"/>
+		<Item Name="EZ430-Chronos - Read Button (PPT).vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/LabVIEW Interface for EZ430-Chronos/EZ430-Chronos - Read Button (PPT).vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Accelerations.ctl" Type="VI" URL="../Private/Type Defs/Accelerations.ctl"/>
+			<Item Name="Buttons.ctl" Type="VI" URL="../Private/Type Defs/Buttons.ctl"/>
 			<Item Name="Command.ctl" Type="VI" URL="../Private/Type Defs/Command.ctl"/>
 			<Item Name="EZ430-Chronos Config.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Config.ctl"/>
 			<Item Name="EZ430-Chronos Ref.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Ref.ctl"/>
@@ -26,6 +28,7 @@
 		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
 		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
 		<Item Name="Read Accelerometer.vi" Type="VI" URL="../Public/Read Accelerometer.vi"/>
+		<Item Name="Read Button.vi" Type="VI" URL="../Public/Read Button.vi"/>
 		<Item Name="Start Access Point.vi" Type="VI" URL="../Public/Start Access Point.vi"/>
 	</Item>
 </Library>
