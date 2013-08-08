@@ -16,11 +16,13 @@
 			<Item Name="Command.ctl" Type="VI" URL="../Private/Type Defs/Command.ctl"/>
 			<Item Name="EZ430-Chronos Config.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Config.ctl"/>
 			<Item Name="EZ430-Chronos Ref.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Ref.ctl"/>
+			<Item Name="Mode.ctl" Type="VI" URL="../Private/Type Defs/Mode.ctl"/>
 		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Error Generator.vi" Type="VI" URL="../Private/Utilities/Error Generator.vi"/>
 			<Item Name="Packetize.vi" Type="VI" URL="../Private/Utilities/Packetize.vi"/>
 			<Item Name="Send Receive.vi" Type="VI" URL="../Private/Utilities/Send Receive.vi"/>
+			<Item Name="Start Access Point.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/LabVIEW Interface for EZ430-Chronos/Private/Utilities/Start Access Point.vi"/>
 			<Item Name="Wait For Bytes.vi" Type="VI" URL="../Private/Utilities/Wait For Bytes.vi"/>
 		</Item>
 	</Item>
@@ -29,6 +31,5 @@
 		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
 		<Item Name="Read Accelerometer.vi" Type="VI" URL="../Public/Read Accelerometer.vi"/>
 		<Item Name="Read Button.vi" Type="VI" URL="../Public/Read Button.vi"/>
-		<Item Name="Start Access Point.vi" Type="VI" URL="../Public/Start Access Point.vi"/>
 	</Item>
 </Library>

@@ -14,7 +14,6 @@
 			<Item Name="Read Accelerometer.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/LabVIEW Interface for EZ430-Chronos/Test Apps/Read Accelerometer.vi"/>
 		</Item>
 		<Item Name="LVH-EZ430.lvlib" Type="Library" URL="../LVH-EZ430.lvlib"/>
-		<Item Name="Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/LabVIEW Interface for EZ430-Chronos/Private/Type Defs/Mode.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -53,7 +52,6 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Mode.ctl" Type="VI" URL="../Private/Type Defs/Mode.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
