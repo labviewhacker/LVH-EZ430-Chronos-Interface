@@ -10,6 +10,7 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Type Defs" Type="Folder">
+			<Item Name="Accelerations.ctl" Type="VI" URL="../Private/Type Defs/Accelerations.ctl"/>
 			<Item Name="Command.ctl" Type="VI" URL="../Private/Type Defs/Command.ctl"/>
 			<Item Name="EZ430-Chronos Config.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Config.ctl"/>
 			<Item Name="EZ430-Chronos Ref.ctl" Type="VI" URL="../Private/Type Defs/EZ430-Chronos Ref.ctl"/>
