@@ -1,0 +1,5 @@
+#### Starting Mass Compile: Wed, Oct 30, 2013 2:04:44 PM
+  Directory: "C:\github\labviewhacker\LVH-EZ430-Chronos-Interface"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\LabVIEW Interface for EZ430-Chronos\Test Apps\Read Accelerometer.vi
+  ### Bad VI:    "Read Accelerometer.vi"	Path="C:\github\labviewhacker\LVH-EZ430-Chronos-Interface\LabVIEW\vi.lib\LabVIEW Hacker\EZ430-Chronos-Interface\Test Apps\Read Accelerometer.vi"
+#### Finished Mass Compile: Wed, Oct 30, 2013 2:04:45 PM
